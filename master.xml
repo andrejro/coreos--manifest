@@ -157,13 +157,13 @@ Your sources have been sync'd successfully.
 
   <remove-project name="coreos/scripts" />
   <project path="src/scripts"
-           name="glevand/coreos--scripts"
+           name="andrejro/coreos--scripts"
            remote="github-https"
            groups="minilayout" />
 
   <remove-project name="coreos/coreos-overlay" />
   <project path="src/third_party/coreos-overlay"
-           name="glevand/coreos--coreos-overlay"
+           name="andrejro/coreos--coreos-overlay"
            remote="github-https"
            groups="minilayout" />
 
