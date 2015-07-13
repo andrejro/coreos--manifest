@@ -169,7 +169,7 @@ Your sources have been sync'd successfully.
 
   <remove-project name="coreos/portage-stable" />
   <project path="src/third_party/portage-stable"
-           name="glevand/coreos--portage-stable"
+           name="andrejro/coreos--portage-stable"
            remote="github-https"/>
 
 </manifest>
