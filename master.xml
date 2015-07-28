@@ -152,6 +152,10 @@ Your sources have been sync'd successfully.
            name="coreos/ignition"
            groups="minilayout" />
 
+  <project path="src/third_party/coreos-metadata"
+           name="coreos/coreos-metadata"
+           groups="minilayout" />
+
   <remote name="github-ssh" fetch="ssh://git@github.com" />
   <remote name="github-https" fetch="https://github.com" />
 
