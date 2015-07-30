@@ -162,18 +162,21 @@ Your sources have been sync'd successfully.
   <remove-project name="coreos/scripts" />
   <project path="src/scripts"
            name="andrejro/coreos--scripts"
+           revision="refs/heads/devel"
            remote="github-https"
            groups="minilayout" />
 
   <remove-project name="coreos/coreos-overlay" />
   <project path="src/third_party/coreos-overlay"
            name="andrejro/coreos--coreos-overlay"
+           revision="refs/heads/devel"
            remote="github-https"
            groups="minilayout" />
 
   <remove-project name="coreos/portage-stable" />
   <project path="src/third_party/portage-stable"
            name="andrejro/coreos--portage-stable"
+           revision="refs/heads/devel"
            remote="github-https"/>
 
 </manifest>
